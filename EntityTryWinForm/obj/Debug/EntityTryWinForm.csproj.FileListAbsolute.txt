@@ -1,0 +1,24 @@
+c:\users\nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTryWinForm.exe.config
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTryWinForm.exe
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTryWinForm.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityFramework.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.ORM.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.ORM.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityFramework.xml
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\obj\Debug\EntityTryWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\obj\Debug\EntityTryWinForm.Form1.resources
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\obj\Debug\EntityTryWinForm.Properties.Resources.resources
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\obj\Debug\EntityTryWinForm.csproj.GenerateResource.Cache
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\obj\Debug\EntityTryWinForm.exe
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\obj\Debug\EntityTryWinForm.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.DTO.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.Service.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.Repository.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.DTO.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.Service.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTryWinForm\bin\Debug\EntityTry.Repository.pdb
+C:\Users\Nedim\Source\Repos\Entity-Framework-Katmanlari\EntityTryWinForm\bin\Debug\EntityTryWinForm.exe.config
+C:\Users\Nedim\Source\Repos\Entity-Framework-Katmanlari\EntityTryWinForm\obj\Debug\EntityTryWinForm.exe
+C:\Users\Nedim\Source\Repos\Entity-Framework-Katmanlari\EntityTryWinForm\obj\Debug\EntityTryWinForm.pdb

@@ -1,0 +1,16 @@
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.Service.dll.config
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.Service.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.Service.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityFramework.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.DTO.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.ORM.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.Repository.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.DTO.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.ORM.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityTry.Repository.pdb
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityFramework.xml
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\obj\Debug\EntityTry.Service.csprojResolveAssemblyReference.cache
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\obj\Debug\EntityTry.Service.dll
+C:\Users\Nedim\documents\visual studio 2015\Projects\EntityTry\EntityTry.Service\obj\Debug\EntityTry.Service.pdb
